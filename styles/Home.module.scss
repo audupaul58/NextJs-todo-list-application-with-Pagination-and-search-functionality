@@ -1,0 +1,71 @@
+@import './color.module';
+@import './breakpoints.module';
+
+
+.title{
+   text-align: center;
+   margin: 3vw;
+   h1{
+      
+   }
+}
+.container{
+  display: block;
+  width: 50%; ;
+  gap: 1rem;
+  margin: auto;
+  height: fit-content;
+  left: 10%;
+  cursor: pointer;
+  text-align: center;
+ 
+
+ @include breakpointdown(medium){
+      width: 93vw;
+      margin: auto;
+      padding: 0;
+      text-align: center;
+      
+  }
+
+  form{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    input{
+      margin-top: 3vh;
+      
+    }
+  }
+
+
+.content{
+   width: fit-content;
+   margin: 2vh;
+   height: fit-content;
+   
+   h1, p{
+      padding: 1vh;
+      margin: 0;
+      
+     
+  }
+  
+}
+
+.table{
+   border: 1px solid gray;
+}
+
+.prevBtn{
+
+   .button{
+      background-color: $font-color5;
+      margin: 0;
+      padding: 0;
+    }
+
+}
+
+  
+}

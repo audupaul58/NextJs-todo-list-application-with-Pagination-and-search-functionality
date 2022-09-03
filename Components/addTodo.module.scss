@@ -1,0 +1,20 @@
+@import '../styles/color.module';
+.form{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    .input{
+       
+        cursor: pointer;
+        width: 60%;
+    }
+
+    .button{
+        background-color: $font-color5;
+        border-radius: 10px;
+        color: $color6;
+      }
+}

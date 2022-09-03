@@ -1,0 +1,94 @@
+{
+  "todos": [
+    {
+      "title": "sani usman",
+      "content": "following syntax for the POST request just calm down",
+      "complete": false,
+      "id": 10
+    },
+    {
+      "title": "This is Ok now",
+      "content": "na OUu comtent Be this",
+      "complete": false,
+      "id": 16
+    },
+    {
+      "title": "Dont Vote Atiku",
+      "content": "following syntax for the POST request",
+      "complete": false,
+      "id": 20
+    },
+    {
+      "title": "This is ok",
+      "content": "Just do it",
+      "complete": false,
+      "id": 21
+    },
+    {
+      "title": "This is for Both",
+      "content": "Big Brother Naija Ambasaddor",
+      "complete": false,
+      "id": 22
+    },
+    {
+      "content": "Big Brother Naija Ambasaddor",
+      "complete": true,
+      "id": 25
+    },
+    {
+      "content": "Big Brother Naija Ambasaddor",
+      "complete": true,
+      "id": 26
+    },
+    {
+      "content": "Dont Cover mat as the cold is ok",
+      "complete": true,
+      "id": 27
+    },
+    {
+      "content": "Dont Cover mat as the cold is ok",
+      "complete": true,
+      "id": 28
+    },
+    {
+      "content": "following syntax for the POST request",
+      "complete": true,
+      "id": 29
+    },
+    {
+      "content": "following syntax for the POST request",
+      "complete": true,
+      "id": 30
+    },
+    {
+      "content": "Here Na comntrnrt",
+      "complete": true,
+      "id": 31
+    },
+    {
+      "content": "Big Brother Naija Ambasaddor",
+      "complete": true,
+      "id": 35
+    },
+    {
+      "content": "na OUu comtent Be this Cug priphet",
+      "complete": false,
+      "id": 36
+    },
+    {
+      "content": "Big Brother Naija Ambasaddor",
+      "complete": false,
+      "id": 37
+    },
+    {
+      "content": "Big Brother Naija Ambasaddor no the shout",
+      "complete": false,
+      "id": 39
+    },
+    {
+      "content": "following syntax for the POST request",
+      "complete": false,
+      "id": 40
+    }
+  ]
+}

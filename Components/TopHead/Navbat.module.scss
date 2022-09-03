@@ -1,0 +1,25 @@
+@import '/styles/breakpoints.module.scss';
+@import '/styles/color.module.scss';
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    height: 8vh;
+    width: 100vw;
+    background-color: $font-color5;
+    align-items: center;
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    color:  $color6;
+    text-align: center;
+   
+
+   
+
+    
+           
+        
+       
+    
+
+}
+
