@@ -40,7 +40,7 @@ const Edit = () => {
     <form className={styles.form}  onSubmit={handleSubmit(submitForm)}>
         <input className={styles.input} type="text" name='content' placeholder='type here' {...register('content')} />
         <input type="checkbox" name="complete" {...register('complete')}/>
-        <input type="submit" value="Add Item" name="submit"/>
+        <input type="submit" value="Update" name="submit" className={styles.button}/>
    </form>
   )
 }

@@ -3,7 +3,7 @@
     {
       "title": "sani usman",
       "content": "following syntax for the POST request just calm down",
-      "complete": false,
+      "complete": true,
       "id": 10
     },
     {
@@ -20,8 +20,8 @@
     },
     {
       "title": "This is ok",
-      "content": "Just do it",
-      "complete": false,
+      "content": "Just do it, it is your time",
+      "complete": true,
       "id": 21
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "content": "Big Brother Naija Ambasaddor",
-      "complete": true,
+      "complete": false,
       "id": 26
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "content": "Dont Cover mat as the cold is ok",
-      "complete": true,
+      "complete": false,
       "id": 28
     },
     {

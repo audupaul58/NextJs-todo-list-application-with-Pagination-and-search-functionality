@@ -99,7 +99,7 @@ export const Post = ({item}) => {
   return(
 
     <tr className={styles.tableRow}>
-    <th onClick={()=>{handleComplete(item.id)}} scope="row">{item.complete === true ? <MdCheckBox/>:<MdCheckBoxOutlineBlank/>}</th>
+    <th onClick={()=>{handleComplete(item.id)}} scope="row">{item.complete ? <MdCheckBox/>:<MdCheckBoxOutlineBlank/>}</th>
     <td>{item.content}</td>
     <td onClick={() =>handleUpdate(item.id)}><FaEdit/></td>
     <td onClick={() =>handleDelete(item.id)}><MdDelete/></td>
